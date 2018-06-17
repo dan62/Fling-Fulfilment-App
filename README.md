@@ -34,7 +34,7 @@ The following are some functions our application aims to solve
 
 The following are images of current Activities that have been developed to date:
 
-![alt text](http://source2code.com/splash_screen.png)   ![alt text](https://secure.meetupstatic.com/s/img/31675026235228875735/app_download/demo/android/top.en.png)   ![alt text](https://secure.meetupstatic.com/s/img/31675026235228875735/app_download/demo/android/top.en.png)
+![alt text](http://source2code.com/splash_screen.png)   ![alt text](http://source2code.com/login.png)   ![alt text](http://source2code.com/shop.png)
 
 ## Built With
 
