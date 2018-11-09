@@ -34,7 +34,8 @@ The following are some functions our application aims to solve
 
 The following are images of current Activities that have been developed to date:
 
-![alt text](http://source2code.com/splash_screen.png)   ![alt text](http://source2code.com/login.png)   ![alt text](http://source2code.com/shop.png)
+![alt text](http://fling.asia/app_test/splashs.PNG)   ![alt text](http://fling.asia/app_test/condo_select.PNG)  ![alt text](http://fling.asia/app_test/main.PNG)
+
 
 ## Built With
 
